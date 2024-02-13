@@ -1,7 +1,0 @@
-Bu proje TCP/IP protokolü kullanılarak Server ve Client uygulamaları arasında haberleşmeyi ve Seri port kullanılarak Client içi mesaj aktarımını sağlayabilmektedir. SimpleTCP ve System.IO.Ports paketleri kullanılmıştır. 
-TCP/IP protokolünyle haberleşmek için Server ve Client uygulamalarımızı aynı anda açıp Server uygulamamızdan istediğimiz Host ve port değerlerini girip Start butonuna bastıktan sonra Client uygulamasında da aynı değerleri girip connect butonuna bastığımız zaman bağlantı kurulmuş olmalıdır. 
-Client uygulamasında Message textbox'ına mesajımızı yazıp send butonuna bastığımız zaman server üzerinden mesajın Received textbox'ımıza ulaştığını göreceğiz. 
-
-Serial Port ile haberleşme işlevi için sadece Client uygulaması yeterli olacaktır. Cihazımızda bulunan mevcut Seri portlar otomatik olarak combobox şeklinde listelenecektir
-fakat bu portların halihazırda kullanılma ihtimali yüksek olduğu için yeni bir sanal port oluşturulması daha sağlıklı olacaktır. Portu seçtikten sonra open tuşuna bastığımızda port aktif hale gelecektir.
-Yine istediğimiz mesajı yazıp send butonuna bastıktan sonra altta bulunan Receive butonuna basarsak ilettiğimiz mesajın Received textbox'ına ulaştığını göreceğiz.
