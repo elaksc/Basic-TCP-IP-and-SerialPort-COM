@@ -1,0 +1,16 @@
+C:\Users\qwert\source\repos\Basic TCP-IP Client\bin\Debug\net8.0-windows\Basic TCP-IP Client.exe
+C:\Users\qwert\source\repos\Basic TCP-IP Client\bin\Debug\net8.0-windows\Basic TCP-IP Client.deps.json
+C:\Users\qwert\source\repos\Basic TCP-IP Client\bin\Debug\net8.0-windows\Basic TCP-IP Client.runtimeconfig.json
+C:\Users\qwert\source\repos\Basic TCP-IP Client\bin\Debug\net8.0-windows\Basic TCP-IP Client.dll
+C:\Users\qwert\source\repos\Basic TCP-IP Client\bin\Debug\net8.0-windows\Basic TCP-IP Client.pdb
+C:\Users\qwert\source\repos\Basic TCP-IP Client\obj\Debug\net8.0-windows\Basic_TCP_IP_Client.Form1.resources
+C:\Users\qwert\source\repos\Basic TCP-IP Client\obj\Debug\net8.0-windows\Basic TCP-IP Client.csproj.GenerateResource.cache
+C:\Users\qwert\source\repos\Basic TCP-IP Client\obj\Debug\net8.0-windows\Basic TCP-IP Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwert\source\repos\Basic TCP-IP Client\obj\Debug\net8.0-windows\Basic TCP-IP Client.AssemblyInfoInputs.cache
+C:\Users\qwert\source\repos\Basic TCP-IP Client\obj\Debug\net8.0-windows\Basic TCP-IP Client.AssemblyInfo.cs
+C:\Users\qwert\source\repos\Basic TCP-IP Client\obj\Debug\net8.0-windows\Basic TCP-IP Client.csproj.CoreCompileInputs.cache
+C:\Users\qwert\source\repos\Basic TCP-IP Client\obj\Debug\net8.0-windows\Basic TCP-IP Client.dll
+C:\Users\qwert\source\repos\Basic TCP-IP Client\obj\Debug\net8.0-windows\refint\Basic TCP-IP Client.dll
+C:\Users\qwert\source\repos\Basic TCP-IP Client\obj\Debug\net8.0-windows\Basic TCP-IP Client.pdb
+C:\Users\qwert\source\repos\Basic TCP-IP Client\obj\Debug\net8.0-windows\Basic TCP-IP Client.genruntimeconfig.cache
+C:\Users\qwert\source\repos\Basic TCP-IP Client\obj\Debug\net8.0-windows\ref\Basic TCP-IP Client.dll
