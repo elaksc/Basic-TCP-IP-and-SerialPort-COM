@@ -3,11 +3,12 @@
  This is a simple communication app which includes Serial Port Communication and TCP/IP protocol. We have two different apps. First one is Client. We needed that for sending messages and configuring connection variables. In top we can connect our TCP/IP connection and send messages. In bottom section we can open a serial port and send messages. Second one is Server which needed for only TCP/IP communication. We can configure host and port variables and start a connection in this app. Instructions for use will be provided below.
 
 Preview of CLient: 
-https://i.imgur.com/2ZeZzEb.png 
+![image](https://github.com/Aurora1917/Basic-TCP-IP-and-SerialPort-COM/assets/77547429/7025f676-a063-4fda-905a-6a376778380c)
+
 
 Preview of Server: 
-https://i.imgur.com/M3u8H0C.png
- 
+![image](https://github.com/Aurora1917/Basic-TCP-IP-and-SerialPort-COM/assets/77547429/0f7053ca-3266-49cf-a7e2-960242ed2335)
+
 Installation: 
 To install my project you can easily clone my repo:
 git clone https://github.com/Aurora1917/Basic-TCP-IP-and-SerialPort-COM.git
