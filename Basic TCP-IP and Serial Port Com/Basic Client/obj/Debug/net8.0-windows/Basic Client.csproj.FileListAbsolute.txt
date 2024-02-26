@@ -1,0 +1,29 @@
+C:\Users\qwert\source\repos\Basic Client\bin\Debug\net8.0-windows\Basic Client.exe
+C:\Users\qwert\source\repos\Basic Client\bin\Debug\net8.0-windows\Basic Client.deps.json
+C:\Users\qwert\source\repos\Basic Client\bin\Debug\net8.0-windows\Basic Client.runtimeconfig.json
+C:\Users\qwert\source\repos\Basic Client\bin\Debug\net8.0-windows\Basic Client.dll
+C:\Users\qwert\source\repos\Basic Client\bin\Debug\net8.0-windows\Basic Client.pdb
+C:\Users\qwert\source\repos\Basic Client\bin\Debug\net8.0-windows\SimpleTCP.dll
+C:\Users\qwert\source\repos\Basic Client\obj\Debug\net8.0-windows\Basic Client.csproj.AssemblyReference.cache
+C:\Users\qwert\source\repos\Basic Client\obj\Debug\net8.0-windows\Basic Client.csproj.GenerateResource.cache
+C:\Users\qwert\source\repos\Basic Client\obj\Debug\net8.0-windows\Basic Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwert\source\repos\Basic Client\obj\Debug\net8.0-windows\Basic Client.AssemblyInfoInputs.cache
+C:\Users\qwert\source\repos\Basic Client\obj\Debug\net8.0-windows\Basic Client.AssemblyInfo.cs
+C:\Users\qwert\source\repos\Basic Client\obj\Debug\net8.0-windows\Basic Client.csproj.CoreCompileInputs.cache
+C:\Users\qwert\source\repos\Basic Client\obj\Debug\net8.0-windows\Basic Client.csproj.CopyComplete
+C:\Users\qwert\source\repos\Basic Client\obj\Debug\net8.0-windows\Basic Client.dll
+C:\Users\qwert\source\repos\Basic Client\obj\Debug\net8.0-windows\refint\Basic Client.dll
+C:\Users\qwert\source\repos\Basic Client\obj\Debug\net8.0-windows\Basic Client.pdb
+C:\Users\qwert\source\repos\Basic Client\obj\Debug\net8.0-windows\Basic Client.genruntimeconfig.cache
+C:\Users\qwert\source\repos\Basic Client\obj\Debug\net8.0-windows\ref\Basic Client.dll
+C:\Users\qwert\source\repos\Basic Client\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\qwert\source\repos\Basic Client\bin\Debug\net8.0-windows\RJCP.SerialPortStream.dll
+C:\Users\qwert\source\repos\Basic Client\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\qwert\source\repos\Basic Client\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\qwert\source\repos\Basic Client\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\qwert\source\repos\Basic Client\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\qwert\source\repos\Basic Client\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\qwert\source\repos\Basic Client\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\qwert\source\repos\Basic Client\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\qwert\source\repos\Basic Client\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\qwert\source\repos\Basic Client\obj\Debug\net8.0-windows\Basic_Client.Client.resources
